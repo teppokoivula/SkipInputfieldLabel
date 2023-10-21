@@ -6,7 +6,7 @@ class SkipInputfieldLabel extends Wire implements Module {
 		return [
 			'title' => 'Skip Inputfield Label',
 			'summary' => 'Adds a skipLabel config option for inputfields.',
-			'version' => '0.0.1',
+			'version' => '0.0.2',
 			'author' => 'Teppo Koivula',
 			'autoload' => true,
 			'singular' => true,
